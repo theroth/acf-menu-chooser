@@ -1,0 +1,20 @@
+{
+  "name": "theroth/acf-menu-chooser",
+	"type": "wordpress-plugin",
+  "license": "GPLv2 or later",
+  "description": "This plugin create a field type with a select field that load all menu wordpress and return id of selected menu.",
+  "homepage": "https://github.com/reyhoun/acf-menu-chooser",
+  "authors": [
+    {
+      "name": "Reyhoun",
+      "email": "info@reyhoun.com",
+      "homepage": "http://reyhoun.com/"
+    }
+  ],
+  "keywords": [
+    "acf", "composer", "menu", "wordpress"
+	],
+  "require": {
+    "php": ">=5.6"
+  }
+}
